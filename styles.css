@@ -28,8 +28,8 @@ h1, .title-legend, h2 {
   margin: 20px 0 0 0;
 }
 
-.tribute-info > ul > li{
-  display: ;
+.tribute-info > ul > li {
+  align-text: center;
   padding: 1rem 0;
   max-width: 100%
 }
